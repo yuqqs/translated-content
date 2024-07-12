@@ -826,6 +826,7 @@
 /pt-BR/docs/Web/HTTP/Headers/Cookie2	/pt-BR/docs/conflicting/Web/HTTP/Headers/Cookie
 /pt-BR/docs/Web/HTTP/Headers/Expira	/pt-BR/docs/Web/HTTP/Headers/Expires
 /pt-BR/docs/Web/HTTP/Headers/Feature-Policy	/pt-BR/docs/Web/HTTP/Headers/Permissions-Policy
+/pt-BR/docs/Web/HTTP/Headers/Large-Allocation	/pt-BR/docs/orphaned/Web/HTTP/Headers/Large-Allocation
 /pt-BR/docs/Web/HTTP/Headers/Localização	/pt-BR/docs/Web/HTTP/Headers/Location
 /pt-BR/docs/Web/HTTP/Headers/Public-Key-Pins	/pt-BR/docs/conflicting/Web/HTTP/Headers/Expect-CT
 /pt-BR/docs/Web/HTTP/Headers/Public-Key-Pins-Report-Only	/pt-BR/docs/conflicting/Web/HTTP/Headers/Expect-CT_63e560324d2c47190db4456d746ba07b
@@ -863,6 +864,8 @@
 /pt-BR/docs/Web/JavaScript/Reference/Errors/Not_a_codepoint	/pt-BR/docs/Web/JavaScript/Reference/Errors/Not_a_valid_code_point
 /pt-BR/docs/Web/JavaScript/Reference/Errors/NãoNomeado_funcão_declaração	/pt-BR/docs/Web/JavaScript/Reference/Errors/Unnamed_function_statement
 /pt-BR/docs/Web/JavaScript/Reference/Errors/Não_definido	/pt-BR/docs/Web/JavaScript/Reference/Errors/Not_defined
+/pt-BR/docs/Web/JavaScript/Reference/Errors/Undefined_prop	/pt-BR/docs/orphaned/Web/JavaScript/Reference/Errors/Undefined_prop
+/pt-BR/docs/Web/JavaScript/Reference/Errors/Unterminated_string_literal	/pt-BR/docs/Web/JavaScript/Reference/Errors/String_literal_EOL
 /pt-BR/docs/Web/JavaScript/Reference/Functions/Definicoes_metodos	/pt-BR/docs/Web/JavaScript/Reference/Functions/Method_definitions
 /pt-BR/docs/Web/JavaScript/Reference/Functions/Parametros_Predefinidos	/pt-BR/docs/Web/JavaScript/Reference/Functions/Default_parameters
 /pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/contains	/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
